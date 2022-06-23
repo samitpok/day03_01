@@ -1,0 +1,17 @@
+{
+  "name": "day03_01",
+  "version": "1.0.0",
+  "description": "write express server that listen to port 3535 as day 1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "samit",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "path": "^0.12.7"
+  }
+}
